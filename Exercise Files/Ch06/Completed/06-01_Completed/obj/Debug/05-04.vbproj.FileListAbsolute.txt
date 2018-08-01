@@ -1,0 +1,18 @@
+C:\InMotion\_Google Drive\Clients\4020-LinkedIn\105-Acad Add-ons Vb.Net\Content\Exercises\Ch05\05-04\bin\Debug\MyFirstPlugIn.dll
+C:\InMotion\_Google Drive\Clients\4020-LinkedIn\105-Acad Add-ons Vb.Net\Content\Exercises\Ch05\05-04\bin\Debug\MyFirstPlugIn.pdb
+C:\InMotion\_Google Drive\Clients\4020-LinkedIn\105-Acad Add-ons Vb.Net\Content\Exercises\Ch05\05-04\bin\Debug\MyFirstPlugIn.xml
+C:\InMotion\_Google Drive\Clients\4020-LinkedIn\105-Acad Add-ons Vb.Net\Content\Exercises\Ch05\05-04\obj\Debug\05-04.vbprojResolveAssemblyReference.cache
+C:\InMotion\_Google Drive\Clients\4020-LinkedIn\105-Acad Add-ons Vb.Net\Content\Exercises\Ch05\05-04\obj\Debug\MyCompany.MySoftware.Resources.resources
+C:\InMotion\_Google Drive\Clients\4020-LinkedIn\105-Acad Add-ons Vb.Net\Content\Exercises\Ch05\05-04\obj\Debug\05-04.vbproj.GenerateResource.Cache
+C:\InMotion\_Google Drive\Clients\4020-LinkedIn\105-Acad Add-ons Vb.Net\Content\Exercises\Ch05\05-04\obj\Debug\MyFirstPlugIn.dll
+C:\InMotion\_Google Drive\Clients\4020-LinkedIn\105-Acad Add-ons Vb.Net\Content\Exercises\Ch05\05-04\obj\Debug\MyFirstPlugIn.xml
+C:\InMotion\_Google Drive\Clients\4020-LinkedIn\105-Acad Add-ons Vb.Net\Content\Exercises\Ch05\05-04\obj\Debug\MyFirstPlugIn.pdb
+C:\Users\jmodglin\Desktop\Exercise\Ch05\05-04\bin\Debug\MyFirstPlugIn.dll
+C:\Users\jmodglin\Desktop\Exercise\Ch05\05-04\bin\Debug\MyFirstPlugIn.pdb
+C:\Users\jmodglin\Desktop\Exercise\Ch05\05-04\bin\Debug\MyFirstPlugIn.xml
+C:\Users\jmodglin\Desktop\Exercise\Ch05\05-04\obj\Debug\05-04.vbprojResolveAssemblyReference.cache
+C:\Users\jmodglin\Desktop\Exercise\Ch05\05-04\obj\Debug\MyCompany.MySoftware.Resources.resources
+C:\Users\jmodglin\Desktop\Exercise\Ch05\05-04\obj\Debug\05-04.vbproj.GenerateResource.Cache
+C:\Users\jmodglin\Desktop\Exercise\Ch05\05-04\obj\Debug\MyFirstPlugIn.dll
+C:\Users\jmodglin\Desktop\Exercise\Ch05\05-04\obj\Debug\MyFirstPlugIn.xml
+C:\Users\jmodglin\Desktop\Exercise\Ch05\05-04\obj\Debug\MyFirstPlugIn.pdb

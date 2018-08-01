@@ -1,0 +1,9 @@
+C:\Users\jmodglin\Desktop\Exercise\Ch03\03-04\bin\Debug\MyFirstPlugIn.dll
+C:\Users\jmodglin\Desktop\Exercise\Ch03\03-04\bin\Debug\MyFirstPlugIn.pdb
+C:\Users\jmodglin\Desktop\Exercise\Ch03\03-04\bin\Debug\MyFirstPlugIn.xml
+C:\Users\jmodglin\Desktop\Exercise\Ch03\03-04\obj\Debug\03-04.vbprojResolveAssemblyReference.cache
+C:\Users\jmodglin\Desktop\Exercise\Ch03\03-04\obj\Debug\MyCompany.MySoftware.Resources.resources
+C:\Users\jmodglin\Desktop\Exercise\Ch03\03-04\obj\Debug\03-04.vbproj.GenerateResource.Cache
+C:\Users\jmodglin\Desktop\Exercise\Ch03\03-04\obj\Debug\MyFirstPlugIn.dll
+C:\Users\jmodglin\Desktop\Exercise\Ch03\03-04\obj\Debug\MyFirstPlugIn.xml
+C:\Users\jmodglin\Desktop\Exercise\Ch03\03-04\obj\Debug\MyFirstPlugIn.pdb

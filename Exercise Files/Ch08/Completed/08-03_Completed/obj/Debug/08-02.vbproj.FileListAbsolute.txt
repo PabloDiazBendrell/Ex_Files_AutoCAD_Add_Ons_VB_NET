@@ -1,0 +1,14 @@
+C:\Users\jmodglin\Desktop\Exercise\Ch08\08-02\bin\Debug\MyFirstPlugIn.dll
+C:\Users\jmodglin\Desktop\Exercise\Ch08\08-02\bin\Debug\MyFirstPlugIn.pdb
+C:\Users\jmodglin\Desktop\Exercise\Ch08\08-02\bin\Debug\MyFirstPlugIn.xml
+C:\Users\jmodglin\Desktop\Exercise\Ch08\08-02\obj\Debug\08-02.vbprojResolveAssemblyReference.cache
+C:\Users\jmodglin\Desktop\Exercise\Ch08\08-02\obj\Debug\Windows\winLayerList.g.vb
+C:\Users\jmodglin\Desktop\Exercise\Ch08\08-02\obj\Debug\MyFirstPlugIn_MarkupCompile.cache
+C:\Users\jmodglin\Desktop\Exercise\Ch08\08-02\obj\Debug\MyFirstPlugIn_MarkupCompile.lref
+C:\Users\jmodglin\Desktop\Exercise\Ch08\08-02\obj\Debug\Windows\winLayerList.baml
+C:\Users\jmodglin\Desktop\Exercise\Ch08\08-02\obj\Debug\MyFirstPlugIn.g.resources
+C:\Users\jmodglin\Desktop\Exercise\Ch08\08-02\obj\Debug\MyCompany.MySoftware.Resources.resources
+C:\Users\jmodglin\Desktop\Exercise\Ch08\08-02\obj\Debug\08-02.vbproj.GenerateResource.Cache
+C:\Users\jmodglin\Desktop\Exercise\Ch08\08-02\obj\Debug\MyFirstPlugIn.dll
+C:\Users\jmodglin\Desktop\Exercise\Ch08\08-02\obj\Debug\MyFirstPlugIn.xml
+C:\Users\jmodglin\Desktop\Exercise\Ch08\08-02\obj\Debug\MyFirstPlugIn.pdb
